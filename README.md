@@ -22,7 +22,10 @@ Toplanabilir nesneler, seviye ilerleme sistemi ve kullanıcı dostu arayüz içe
 ![SingUp Screen](Images/SıgnUpScreen.png)
 
 ### Levels
+![Level 1](Images/lvl1.png)
+![Level 2](Images/lvl2.png)
 ![Level 3](Images/lvl3.png)
+![Level 3](Images/lvl4.png)
 ![Level 5](Images/lvl5.png)
 
 
