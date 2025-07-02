@@ -43,7 +43,7 @@ Toplanabilir nesneler, seviye ilerleme sistemi ve kullanıcı dostu arayüz içe
 
 - **İsim:** Bahadır Sandıkcı
 - **İletişim:** baho842@hotmail.com
-- **LinkedIn / GitHub:** https://github.com/ZetySama  /  www.linkedin.com/in/bahadır-sandıkcı-003a86287
+- **LinkedIn :** www.linkedin.com/in/bahadır-sandıkcı-003a86287
 
 ---
 
