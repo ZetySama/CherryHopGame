@@ -18,8 +18,8 @@ Toplanabilir nesneler, seviye ilerleme sistemi ve kullanıcı dostu arayüz içe
 ## 🖼️ Ekran Görüntüleri
 
 ### Ana Menü
-![NewGame Screen](Images/NewGameContinueGame.png)
-![SingUp Screen](Images/SıgnUpScreen.png)
+![NewGame Screen](Images/new.png)
+![SingUp Screen](Images/sing.png)
 
 ### Levels
 ![Level 1](Images/lvl1.png)
